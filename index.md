@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome to my blog
 
-Maybe say a some things about yourself.
+Let's learn together about geospatial data
 
-Or maybe what you plan to blog about.
+I'm trying to post in English and Indonesian. More posts are in progress.
